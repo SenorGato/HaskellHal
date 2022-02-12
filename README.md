@@ -1,0 +1,2 @@
+# HaskellHal
+A helper.
